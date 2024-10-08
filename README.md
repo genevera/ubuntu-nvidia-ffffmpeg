@@ -1,4 +1,4 @@
-Full-featured FFmpeg on Ubuntu
+Full-featured FFmpeg on Ubuntu (now with NVidia support)
 ==========
 
 This project aims to provide Dockerfile(s) to compile full-featured FFmpeg executable files with **dynamic-linking** on Ubuntu-based Linux distributions.
